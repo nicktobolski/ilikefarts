@@ -36,7 +36,7 @@ export default function Home() {
           rel="noopener noreferrer"
           onClick={() => mixpanel.track("Linky boi clicked")}
         >
-          Powered by tobo
+          Powered by tobo &amp; Frontlanders
         </a>
       </footer>
     </div>
